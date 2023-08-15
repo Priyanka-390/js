@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+
+p {
+    font-size: 200px;
+    font-weight: 500;
+}
+
